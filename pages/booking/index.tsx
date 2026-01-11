@@ -1,4 +1,4 @@
-iimport axios from "axios";
+import axios from "axios";
 import { useState } from "react";
 
 export default function BookingForm() {
