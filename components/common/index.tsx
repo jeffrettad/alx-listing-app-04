@@ -1,4 +1,4 @@
-import Pill from "@/components/common/pill";
+fimport Pill from "@/components/common/pill";
 
 const filters = ["Top Villa", "Self Checkin", "Free Parking", "Pet Friendly"];
 
