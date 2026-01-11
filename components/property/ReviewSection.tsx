@@ -1,4 +1,4 @@
-// components/property/ReviewSection.tsx
+/// components/property/ReviewSection.tsx
 import axios from "axios";
 import { useState, useEffect } from "react";
 
