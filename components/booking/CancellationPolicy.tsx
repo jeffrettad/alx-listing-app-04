@@ -1,4 +1,4 @@
-const CancellationPolicy = () => (
+gconst CancellationPolicy = () => (
   <div className="mt-6">
     <h2 className="text-xl font-semibold">Cancellation policy</h2>
     <p className="mt-2 text-gray-600">
