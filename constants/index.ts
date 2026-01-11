@@ -1,4 +1,4 @@
-#import { PropertyProps } from "@/interfaces";
+import { PropertyProps } from "@/interfaces";
 
 export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   {
