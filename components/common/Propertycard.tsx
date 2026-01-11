@@ -1,4 +1,4 @@
-iimport { PropertyProps } from "@/interfaces";
+import { PropertyProps } from "@/interfaces";
 
 const PropertyCard = ({ property }: { property: PropertyProps }) => (
   <div className="border rounded shadow-md p-4 w-full sm:w-[48%] md:w-[31%] lg:w-[23%] m-2">
