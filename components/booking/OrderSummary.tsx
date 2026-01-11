@@ -1,4 +1,4 @@
-const OrderSummary: React.FC<{ bookingDetails: any }> = ({ bookingDetails }) => (
+bconst OrderSummary: React.FC<{ bookingDetails: any }> = ({ bookingDetails }) => (
   <div className="bg-white p-6 shadow-md rounded-lg">
     <h2 className="text-xl font-semibold">Review Order Details</h2>
     <div className="flex items-center mt-4">
